@@ -4,6 +4,8 @@
 - *💞️* I’m looking to collaborate on Software Development projects for companies, and indie game projects with friends
 - *📫* How to reach me christian.wemmer94@gmail.com
 
+- Organizations: Graphic Design Development @ CodeCellGames
+
 <!---
 cwemmer94/cwemmer94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
