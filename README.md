@@ -6,6 +6,10 @@
 
 - Organizations: Graphic Design Development @ CodeCellGames
 
+
+** ##Languages##
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width=64 height=64/>
 <!---
 cwemmer94/cwemmer94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
