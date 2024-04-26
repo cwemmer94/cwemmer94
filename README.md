@@ -2,11 +2,12 @@
 
 - *👋* Hi, I’m @cwemmer94 (Christian Wemmer)
 - *👀* I’m interested in learning many different languages including Java, C++, and Python
-- *🌱* I’m currently learning Java
-- *💞️* I’m looking to collaborate on Software Development projects for companies, and indie game projects with friends
-- *📫* How to reach me christian.wemmer94@gmail.com
+- *🌱* I’m currently learning Java and Javascript with HtML and CSS already with a basic understanding
+- *💞️* I’m looking to collaborate on Software Development projects for companies, and indie game projects with friends or my own standalone indie game with minimalistic models created by others
+- *📫* How to reach me: christian.wemmer94@gmail.com
 
 - Organizations: Graphic Design Development @ CodeCellGames
+- Education: Currently enrolled at WGU: BA Computer Science for Software Engineering
 
 
 <hr>
