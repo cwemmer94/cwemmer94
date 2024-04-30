@@ -15,8 +15,7 @@
 ## **Languages**
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width=64 height=64/>
- <img src="![image](https://github.com/cwemmer94/cwemmer94/assets/132032342/36527544-45be-4e16-b3db-221b9d7e216c)
-" alt="JS, HTML, CSS" width=64 height=64/>
+ <img src="https://github.com/cwemmer94/cwemmer94/assets/132032342/36527544-45be-4e16-b3db-221b9d7e216c" alt="JS, HTML, CSS" width=64 height=64/>
 <!---
 cwemmer94/cwemmer94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
